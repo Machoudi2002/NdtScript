@@ -19,7 +19,7 @@ Ensure that you have Node.js and npm installed on your machine.
 To create a new TypeScript + Node.js project, navigate to your desired project directory and run the following command:
 
 ```bash
-npx ndtscript init
+npx ndtscript
 ```
 You can start writing your TypeScript code in the src directory, and when you're ready to compile it, simply run: 
 
