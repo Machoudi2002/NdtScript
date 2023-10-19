@@ -1,0 +1,27 @@
+{
+  "name": "ndtscript",
+  "version": "1.0.0",
+  "description": "set up node and typescript project using one command line.",
+  "main": "ndtScript.js",
+  "type": "module",
+  "bin": {
+    "init": "node ndtScript.js"
+  },
+  "scripts": {
+    "init": "node ndtScript.js"
+  },
+  "keywords": [
+    "ndtscript",
+    "node",
+    "typescript"
+  ],
+  "author": "Machoudi",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^20.8.7",
+    "typescript": "^5.2.2"
+  },
+  "dependencies": {
+    "undici-types": "^5.25.3"
+  }
+}
