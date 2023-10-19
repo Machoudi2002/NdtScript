@@ -1,5 +1,5 @@
 {
-  "name": "ndtscript",
+  "name": "@Machoudi2002/ndtscript",
   "version": "1.0.0",
   "description": "set up node and typescript project using one command line.",
   "main": "ndtScript.js",
@@ -15,6 +15,9 @@
     "node",
     "typescript"
   ],
+  "repository": {
+    "url": "https://github.com/Machoudi2002/NdtScript"
+  },
   "author": "Machoudi",
   "license": "ISC",
   "devDependencies": {
