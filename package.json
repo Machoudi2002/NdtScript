@@ -1,6 +1,6 @@
 {
   "name": "ndtscript",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "set up node and typescript project using one command line.",
   "main": "ndtScript.js",
   "type": "module",
