@@ -1,5 +1,5 @@
 {
-  "name": "@Machoudi2002/ndtscript",
+  "name": "ndtscript",
   "version": "1.0.0",
   "description": "set up node and typescript project using one command line.",
   "main": "ndtScript.js",
